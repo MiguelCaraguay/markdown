@@ -8,7 +8,7 @@ Here is a note!
 :::
 
 And here is a code block:
-SOFIA PRUEBA
+Caraguaysin
 
 ```
 e = mc^2
