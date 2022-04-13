@@ -1,4 +1,5 @@
-# Estos son los docentes que te acompañarán en cada asignatura
+# Docentes
+### Estos son los docentes que te acompañarán en cada asignatura
 
 Programación -> René
 Base de datos -> Juan
